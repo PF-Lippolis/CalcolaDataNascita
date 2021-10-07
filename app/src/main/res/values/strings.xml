@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CalcolaDataNascita</string>
+    <string name="insert_prompt">Inserisci la tua data di nascita</string>
+    <string name="submit">Invia</string>
 </resources>
